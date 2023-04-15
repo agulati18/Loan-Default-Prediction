@@ -4,7 +4,9 @@
 
 ## Tl;dr
 
-The goal of this project was to develop a predictive model to determine whether a loan applicant would default or not. The project began with exploratory data analysis (EDA) to gain insights into the dataset and identify potential relationships between the variables.
+The goal of this project was to develop a predictive model to determine whether a loan applicant would default or not. 
+
+The project began with exploratory data analysis (EDA) to gain insights into the dataset and identify potential relationships between the variables.
 
 Initially, logistic regression was used to build the predictive model. However, the model had limitations in accurately predicting the default status of loan applicants.
 
